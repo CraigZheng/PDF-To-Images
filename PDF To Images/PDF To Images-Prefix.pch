@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'PDF To Images' target in the 'PDF To Images' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
